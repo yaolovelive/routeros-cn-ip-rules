@@ -1,4 +1,4 @@
-# Generated at: 2026-10-20 11:42:17 UTC
+# Generated at: 2026-10-20 11:42:42 UTC
 # IPv4 source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list
 # IPv6 source: https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
 # Count: IPv4=6527, IPv6=3489
