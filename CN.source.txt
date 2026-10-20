@@ -1,2 +1,1 @@
-IPv4: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list
-IPv6: https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
+https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list
