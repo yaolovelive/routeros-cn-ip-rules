@@ -1,4 +1,4 @@
-# Generated at: 2026-11-18 02:00:34 UTC
+# Generated at: 2026-11-19 01:38:20 UTC
 # Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list
 # Count: IPv4=6217, IPv6=3423
 /ip firewall address-list
